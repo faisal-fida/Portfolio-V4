@@ -21,7 +21,7 @@ export const About = () => {
 					</Text>
 					<Text fontSize={{ base: 'smaller', md: 'sm', lg: 'md' }} fontWeight="normal" maxWidth={450} pb={5}>
 						<br />
-						Hey! My name is Matthew and I'm 17. I enjoy tinkering with technology. I've been an avid
+						Hey! My name is Faisal and I'm 18. I enjoy tinkering with technology. I've been an avid
 						computer user for quite some time now and I am still learning new things everyday. I started my
 						internet journey back in 2014 by creating{' '}
 						<Link href="https://youtube.com/xMdbMatt" color="teal.100" isExternal>
@@ -72,7 +72,7 @@ export const About = () => {
 						height={380}
 						p={10}
 						position="absolute"></Box>
-					<Image src="/about.png" alt="Matthew Griffin" width={523} height={380} />
+					<Image src="/about.png" alt="Faisal Fida" width={523} height={380} />
 				</Flex>
 			</Flex>
 		</Box>

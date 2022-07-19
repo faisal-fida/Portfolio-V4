@@ -33,9 +33,9 @@ export const Hero = () => {
 							fontWeight="black"
 							lineHeight="125%"
 							mx={5}>
-							Matthew Griffin.
+							Faisal Fida.
 							<br />
-							<chakra.span color="gray.200">I'm passionate about IT.</chakra.span>
+							<chakra.span color="gray.200">I'm passionate about Data.</chakra.span>
 						</Text>
 					</Box>
 					<Text
