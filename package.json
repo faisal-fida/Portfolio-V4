@@ -15,7 +15,7 @@
 		"deploy": "gh-pages -d build",
 		"dev": "next dev",
 		"build": "next build",
-		"start": "next start --port ${PORT-3000}",
+		"start": "next start",
 		"lint": "eslint \"src/**\"",
 		"lint:fix": "yarn lint --fix"
 	},
