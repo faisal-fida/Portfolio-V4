@@ -100,7 +100,7 @@ This file is used for styles that are impossible to use or annoying in Chakra UI
 	display: block;
 	width: 0;
 	height: 10px;
-	background: #64dfdf;
+	background: #FF7F50;
 	transition: width 0.3s;
 }
 
