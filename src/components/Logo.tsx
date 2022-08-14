@@ -1,4 +1,4 @@
 export const Logo = () => {
 	// eslint-disable-next-line
-	return <img src="logo.svg" alt="Logo" width={45} height={45} />;
+	return <img src="logo.png" alt="Logo" width={45} height={45} />;
 };
