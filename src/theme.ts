@@ -32,11 +32,11 @@ const styles = {
 			borderRadius: '10px',
 		},
 		'*::selection': {
-			background: '#009db3',
+			background: '#FF2E63',
 			color: '#fff',
 		},
 		'*::-moz-selection': {
-			background: '#009db3',
+			background: '#FF2E63',
 			color: '#fff',
 		},
 	},

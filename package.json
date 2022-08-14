@@ -3,11 +3,11 @@
 	"name": "portfolio",
 	"version": "6.1.0",
 	"license": "MIT",
-	"description": "Matthew Griffin's Portfolio",
-	"author": "xMdb <matt@xmdb.dev>",
+	"description": "Faisal's Portfolio",
+	"author": "faisal",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/xMdb/portfolio"
+		"url": "https://github.com/faisal-fida/Portfolio-V4"
 	},
 	"private": false,
 	"scripts": {
